@@ -10,7 +10,7 @@ jobs:
   test:
     env: # we can define the env var in "Jobs level"
       MONGODB_CLUSTER_ADDRESS: cluster0.pvdzsfu.mongodb.net
-      MONGODB_USERNAME: tranquoctuan24596
+      MONGODB_USERNAME: tuantran245
       MONGODB_PASSWORD: Tranquoctuan@0126
       PORT: 8080
     environment: testing
